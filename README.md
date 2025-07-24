@@ -29,6 +29,3 @@ Visuals and breakdowns included.
 - pandas for data wrangling  
 - matplotlib for visualization  
 
-## Output
-![Team Points Bar Chart](team-points-chart.png)  
-*Bar chart showing total points by team for the 2024 F1 season*
